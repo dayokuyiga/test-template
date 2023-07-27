@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in Cybersecurity.
 </div>
 <p> </p>
 <div id="badges">
-  <a href=www.linkedin.com/in/david-okuyiga-7a6a4b200>
+  <a href= "www.linkedin.com/in/david-okuyiga-7a6a4b200>"
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
